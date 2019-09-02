@@ -19,4 +19,3 @@ def sort(list):
 print("Before sorting old list was\t: %s" % list)
 sort(list)
 print("After sorting new list is\t: %s" % list)
-
