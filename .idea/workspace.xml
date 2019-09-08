@@ -14,7 +14,8 @@
   <component name="ProjectId" id="1QBvsbBlMQjwdG0Sd847ieOhzhs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sort.py" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -30,7 +31,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.print_date_frm_input">
+  <component name="RunManager" selected="Python.get_extention">
     <configuration name="elaspstime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,9 +124,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_extention" />
         <item itemvalue="Python.print_date_frm_input" />
         <item itemvalue="Python.print_1st_last" />
-        <item itemvalue="Python.get_extention" />
         <item itemvalue="Python.elaspstime" />
       </list>
     </recent_temporary>
