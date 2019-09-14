@@ -10,9 +10,9 @@ def sort(list):
             if list[j] < list[min_pos]:
                 min_pos = j
 
-            temp = list[i]
-            list[i] = list[min_pos]
-            list[min_pos] = temp
+        temp = list[i]
+        list[i] = list[min_pos]
+        list[min_pos] = temp
 
 
 
