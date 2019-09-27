@@ -5,5 +5,5 @@ txt = "My age is {}"
 
 print(txt.format(age))
 
-txt = " age {} is my "
+txt = "Age {} is my "
 print(txt.format(age))
