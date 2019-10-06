@@ -9,7 +9,6 @@ mydic = {
     "name" : "Kavtulya",
     "age" : "3"
 },
-
     "kid3" : {
     "name" : "atulya",
     "age" : "1"
@@ -24,13 +23,10 @@ child1 = {
     "name" : "one",
     "age" : 5
 }
-
 child2 = {
     "name" : "two",
     "age" : 3
 }
-
-
 child3 = {
     "name" : "three",
     "age" : 1
