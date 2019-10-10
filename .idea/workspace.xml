@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b10433b6-f5c5-44d7-8169-b3d4e5c7278d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sk.calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/sk.calendar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculate_days.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/functions.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -33,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sk.calendar">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="calculate_days" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,19 +76,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input_addtion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$USER_HOME$/pycharm/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_addtion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,19 +140,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.input_addtion" />
       <item itemvalue="Python.calender" />
       <item itemvalue="Python.sort" />
       <item itemvalue="Python.calculate_days" />
       <item itemvalue="Python.sk.calendar" />
+      <item itemvalue="Python.functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions" />
         <item itemvalue="Python.sk.calendar" />
         <item itemvalue="Python.calculate_days" />
         <item itemvalue="Python.sort" />
         <item itemvalue="Python.calender" />
-        <item itemvalue="Python.input_addtion" />
       </list>
     </recent_temporary>
   </component>
