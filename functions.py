@@ -52,4 +52,5 @@ def func1():
 
 func1()
 
+
 exit(10) # We can set exit code using exit() method
