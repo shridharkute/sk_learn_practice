@@ -38,4 +38,4 @@ class person:
 P1 = person("john", 20)
 P1.my_func()
 del P1
-print(P1)
+#print(P1)
