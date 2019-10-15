@@ -18,7 +18,10 @@ class kid(myparents):
         super().__init__(name,age)
         self.birthyear = 1984
 
+    def welcome(self):
+        print("welcome", self.name, self.age, "your birth year is ", self.birthyear)
 K = kid("kavi", 5)
 K.printname()
 print("K.birhyear", K.birthyear)
+K.welcome()
 
