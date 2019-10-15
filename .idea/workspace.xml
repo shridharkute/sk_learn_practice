@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class">
+  <component name="RunManager" selected="Python.inheritance">
     <configuration name="array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,19 +146,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.kk" />
-      <item itemvalue="Python.recursion" />
       <item itemvalue="Python.lamda" />
       <item itemvalue="Python.array" />
       <item itemvalue="Python.class" />
+      <item itemvalue="Python.inheritance" />
+      <item itemvalue="Python.scrap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inheritance" />
+        <item itemvalue="Python.scrap" />
         <item itemvalue="Python.class" />
         <item itemvalue="Python.array" />
         <item itemvalue="Python.lamda" />
-        <item itemvalue="Python.recursion" />
-        <item itemvalue="Python.kk" />
       </list>
     </recent_temporary>
   </component>
