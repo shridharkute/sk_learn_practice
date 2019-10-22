@@ -18,9 +18,10 @@ def my2ndfunc():
 
 my2ndfunc()
 
+# Global keyword is used to set global variable from inside of the function
 def my3rdfunc():
     global  x
-    x = 200
+    x = 400
     print("In side my3rdfunc\t\t:%d" %x)
 
 
