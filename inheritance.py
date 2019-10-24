@@ -23,4 +23,11 @@ class kid(myparents):
 K = kid("kavi", 5)
 K.printname()
 print("K.birhyear", K.birthyear)
+<<<<<<< HEAD
 
+K.welcome()
+
+
+=======
+
+>>>>>>> e07985bb9678fa1d29a16e444bd9dd2066d66c8e
