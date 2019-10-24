@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b10433b6-f5c5-44d7-8169-b3d4e5c7278d" name="Default Changelist" comment="" />
+    <list default="true" id="b10433b6-f5c5-44d7-8169-b3d4e5c7278d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scope">
+  <component name="RunManager" selected="Python.inheritance">
     <configuration name="dictionaries_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +154,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inheritance" />
         <item itemvalue="Python.scope" />
         <item itemvalue="Python.kk" />
         <item itemvalue="Python.iterator" />
         <item itemvalue="Python.dictionaries_1" />
-        <item itemvalue="Python.inheritance" />
       </list>
     </recent_temporary>
   </component>
