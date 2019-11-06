@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b10433b6-f5c5-44d7-8169-b3d4e5c7278d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.json">
+  <component name="RunManager" selected="Python.scrap">
     <configuration name="date_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shridhar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shridhar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,19 +148,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.module" />
-      <item itemvalue="Python.main_module" />
       <item itemvalue="Python.date_time" />
       <item itemvalue="Python.json" />
       <item itemvalue="Python.dictionaries" />
+      <item itemvalue="Python.shridhar" />
+      <item itemvalue="Python.scrap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scrap" />
+        <item itemvalue="Python.shridhar" />
         <item itemvalue="Python.json" />
         <item itemvalue="Python.dictionaries" />
         <item itemvalue="Python.date_time" />
-        <item itemvalue="Python.main_module" />
-        <item itemvalue="Python.module" />
       </list>
     </recent_temporary>
   </component>
