@@ -12,5 +12,10 @@ print(Y["name"])
 print(Y["age"])
 print(Y["place"])
 
-# how to use dictionary data 
+# how to use dictionary data
 print(K["name"])
+
+print(json.__dir__())
+print(help(json.loads))
+
+globals()
