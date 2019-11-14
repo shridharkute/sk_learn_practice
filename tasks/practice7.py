@@ -6,6 +6,7 @@ Question 7: Return the number of times that the string
 “Emma” appears anywhere in the given string
 '''
 
+# Solution1
 statement = str ("Emma is a good developer. Emma is also a writer")
 K = statement.split(" ")
 def str_count(stat):
@@ -20,3 +21,13 @@ def str_count(stat):
 
 str_count(K)
 
+
+# Solution2
+def count_jhon(statement):
+  count = 0
+  for i in range(len(statement)-1):
+    count += statement[i:i+4] == 'Emma'
+  return count
+
+count = count_jhon("Emma is good developer. Emma is aslo a writer")
+print("Emma appeared ", count, "times")
