@@ -3,6 +3,10 @@
 '''
 Question 5: Given a list of ints, return True if first 
 and last number of a list is same
+
+
+This script will run only with single digit input
+
 '''
 
 # Solution 1
