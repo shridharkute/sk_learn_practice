@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dice">
+  <component name="RunManager" selected="Python.dictionaries_2">
     <configuration name="dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionaries_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/pycharm/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../scrap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../scrap/practice5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionaries_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/pycharm/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/practice5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,19 +146,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice5" />
-      <item itemvalue="Python.practice5 (1)" />
       <item itemvalue="Python.practice9" />
       <item itemvalue="Python.dice" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.dictionaries_1" />
+      <item itemvalue="Python.dictionaries_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dice" />
+        <item itemvalue="Python.dictionaries_2" />
+        <item itemvalue="Python.dictionaries_1" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.dice" />
         <item itemvalue="Python.practice9" />
-        <item itemvalue="Python.practice5 (1)" />
-        <item itemvalue="Python.practice5" />
       </list>
     </recent_temporary>
   </component>
