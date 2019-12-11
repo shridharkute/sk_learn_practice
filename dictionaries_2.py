@@ -14,6 +14,11 @@ myd = {
     "kid2" : {
         "name" : "Kavi",
         "age" : 5
+    },
+
+    "kid3" : {
+        "name" : "Harsh",
+        "age" : "3"
     }
 }
 
@@ -27,3 +32,11 @@ print(myd["kid2"])
 JK = myd["kid2"]
 
 print(JK["name"])
+
+
+# If we want to print two values from from kind3 then we need to following
+N = myd["kid3"]
+
+print(N["name"], N["age"])
+# OR
+print(f'This are two value from kid3 \n{N["name"], N["age"]}')
