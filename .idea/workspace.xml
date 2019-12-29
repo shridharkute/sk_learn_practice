@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b10433b6-f5c5-44d7-8169-b3d4e5c7278d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
     <favorites_list name="practice" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tasks" />
   </component>
   <component name="ProjectId" id="1QBvsbBlMQjwdG0Sd847ieOhzhs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,28 +36,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="dictionaries_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/pycharm/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.runnnerup">
     <configuration name="dictionaries_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +50,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runnnerup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/runnnerup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,18 +144,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.dictionaries_1" />
       <item itemvalue="Python.dictionaries_2" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.sort" />
+      <item itemvalue="Python.runnnerup" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.runnnerup" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.sort" />
         <item itemvalue="Python.dictionaries_2" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.dictionaries_1" />
       </list>
     </recent_temporary>
   </component>
@@ -199,25 +198,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="375" y="27" width="642" height="741" key="#runnnerup" timestamp="1577634353382">
+      <screen x="37" y="27" width="1329" height="741" />
+    </state>
+    <state x="375" y="27" width="642" height="741" key="#runnnerup/37.27.1329.741@37.27.1329.741" timestamp="1577634353382" />
     <state x="375" y="27" width="642" height="741" key="#sort" timestamp="1577626037886">
       <screen x="37" y="27" width="1329" height="741" />
     </state>
     <state x="375" y="27" width="642" height="741" key="#sort/37.27.1329.741@37.27.1329.741" timestamp="1577626037886" />
-    <state width="642" height="174" key="GridCell.Tab.0.bottom" timestamp="1577629816405">
+    <state width="1306" height="97" key="GridCell.Tab.0.bottom" timestamp="1577634353403">
       <screen x="37" y="27" width="1329" height="741" />
     </state>
-    <state width="642" height="174" key="GridCell.Tab.0.bottom/37.27.1329.741@37.27.1329.741" timestamp="1577629816405" />
-    <state width="642" height="174" key="GridCell.Tab.0.center" timestamp="1577629816405">
+    <state width="1306" height="97" key="GridCell.Tab.0.bottom/37.27.1329.741@37.27.1329.741" timestamp="1577634353403" />
+    <state width="1306" height="97" key="GridCell.Tab.0.center" timestamp="1577634353402">
       <screen x="37" y="27" width="1329" height="741" />
     </state>
-    <state width="642" height="174" key="GridCell.Tab.0.center/37.27.1329.741@37.27.1329.741" timestamp="1577629816405" />
-    <state width="642" height="174" key="GridCell.Tab.0.left" timestamp="1577629816404">
+    <state width="1306" height="97" key="GridCell.Tab.0.center/37.27.1329.741@37.27.1329.741" timestamp="1577634353402" />
+    <state width="1306" height="97" key="GridCell.Tab.0.left" timestamp="1577634353401">
       <screen x="37" y="27" width="1329" height="741" />
     </state>
-    <state width="642" height="174" key="GridCell.Tab.0.left/37.27.1329.741@37.27.1329.741" timestamp="1577629816404" />
-    <state width="642" height="174" key="GridCell.Tab.0.right" timestamp="1577629816405">
+    <state width="1306" height="97" key="GridCell.Tab.0.left/37.27.1329.741@37.27.1329.741" timestamp="1577634353401" />
+    <state width="1306" height="97" key="GridCell.Tab.0.right" timestamp="1577634353403">
       <screen x="37" y="27" width="1329" height="741" />
     </state>
-    <state width="642" height="174" key="GridCell.Tab.0.right/37.27.1329.741@37.27.1329.741" timestamp="1577629816405" />
+    <state width="1306" height="97" key="GridCell.Tab.0.right/37.27.1329.741@37.27.1329.741" timestamp="1577634353403" />
   </component>
 </project>
