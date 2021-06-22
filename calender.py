@@ -5,4 +5,5 @@ import time
 month = int(input("Please type month :"))
 year = int(input("Please type year :"))
 
-print(calendar.month(year, month))
+print(calendar.month(month,year))
+
