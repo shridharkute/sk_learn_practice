@@ -8,3 +8,5 @@ def f_loop(nu):
 
 f_loop(10)
 
+f_loop(5)
+
